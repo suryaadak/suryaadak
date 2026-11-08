@@ -9,7 +9,7 @@
 - 🏫 Currently pursuing my degree at **Adamas University**
 - 💻 Tech Enthusiast interested in **Software Development** & **Web Technologies**
 - 🌱 Always eager to learn new technologies and frameworks
-- 📫 How to reach me: **suryaadak@example.com** *(আপনার আসল ইমেল বসিয়ে দেবেন)*
+- 📫 How to reach me: **suryaadak2007@gmail.com** 
 
 ---
 
